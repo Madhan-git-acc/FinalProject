@@ -1,0 +1,40 @@
+DATA PREPARATION: 
+(Data Manipulation,Data Blending,Missing Values Handling,Feature Generation,Dimensionality Reduction,Feature Selection,Outliner Removal)
+
+
+//Imported pandas(play with data) numpy(to create array) seaborn(EDA) matplotlib(EDA) klib scikit-learn joblib ydata-profiling
+
+1.Found null 
+2.Fill the null values
+3.Fill numericals with mean
+4.Fill catrgorical with mode
+5.EDA with dtale (Exploratory Data Analysis)
+6.Explored using ydata_profiling
+7.HeatMap using seaborn
+8.Data Cleaning using klib
+
+
+
+Pre-Processing Tasks
+(Label Encoding,Normalization,Partitioning)
+
+
+1.Label Encoding using scikit-learn
+2.One Hot Encoding
+3.Splitting data into train and test
+4.Standardization
+ 
+
+
+
+MODEL BUILDING:
+
+
+
+1.Linear Regression
+2.Random Forest
+
+
+Model Optimization
+
+1.Hyper Parameter Tuning
