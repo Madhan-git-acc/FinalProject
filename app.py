@@ -55,4 +55,4 @@ def result():
 
 
 if __name__ == "__main__":
-    app.run(debug=True, port=94567)
+    app.run(debug=True,host="0.0.0.0", port=94567)
